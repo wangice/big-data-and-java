@@ -1,7 +1,5 @@
 # markdown编辑
 
-参考链接： https://www.appinn.com/markdown
-
 目录
 
 * [1.gitbook 下载并使用](#1)
